@@ -1,7 +1,7 @@
 ## Setup
 
 ```
-npm i && npm start
+npm i && npm run local
 ```
 
 After that Visit :
